@@ -10,7 +10,7 @@ mysql:5.7
 mariadb
 ghcr.io/kube-vip/kube-vip:v0.5.5
 registry.aliyuncs.com/google_containers/kube-apiserver:v1.24.16
-google_containers/kube-controller-manager:v1.24.16
+ghcr.io/kube-controller-manager:v1.24.16
 google_containers/kube-scheduler:v1.24.16
 google_containers/etcd:3.5.6-0
 google_containers/kube-proxy:v1.24.16

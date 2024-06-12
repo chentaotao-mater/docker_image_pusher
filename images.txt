@@ -1,20 +1,4 @@
-nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-openjdk:8-jdk-alpine
-httpd
-tomcat
-mysql
-mysql:5.7
-mariadb
-ghcr.io/kube-vip/kube-vip:v0.5.5
-registry.aliyuncs.com/google_containers/kube-apiserver:v1.24.16
-registry.k8s.io/kube-controller-manager:v1.24.16
-registry.k8s.io/kube-scheduler:v1.24.16
-registry.k8s.io/etcd:3.5.6-0
-registry.k8s.io/kube-proxy:v1.24.16
-registry.k8s.io/pause:3.7
+rancher/rancher:v2.7.6
 registry.k8s.io/metrics-server:v0.6.2
 calico/kube-controllers:v3.24.5
 calico/cni:v3.24.5

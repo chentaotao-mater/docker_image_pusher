@@ -1,8 +1,4 @@
-redis
-rabbitmq
-elasticsearch
-kibana
-mongodb
-rocketmq
-kafka
-
+rancher/mirrored-library-nginx:1.21.1-alpine
+rancher/mirrored-kiwigrid-k8s-sidecar:1.12.2
+rancher/mirrored-kiwigrid-k8s-sidecar:1.12.2
+rancher/mirrored-grafana-grafana:7.5.8

@@ -1,2 +1,2 @@
-coredns/coredns:1.7.0-arm64
+rancher/rancher:v2.8.5
 grafana/grafana:latest

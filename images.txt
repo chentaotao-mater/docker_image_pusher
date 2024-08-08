@@ -1,2 +1,2 @@
-rancher/rancher:v2.8.5
+rancher/rancher:v2.7.14
 grafana/grafana:latest

@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.3.6
+traefik/whoami:v1.10

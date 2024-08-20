@@ -1,1 +1,1 @@
-traefik/whoami:v1.10
+oceanbase/oceanbase-ce:4.2.0.0

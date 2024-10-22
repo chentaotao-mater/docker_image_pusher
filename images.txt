@@ -1,2 +1,2 @@
-quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
+apacherocketmq/rocketmq-dashboard
 

@@ -1,2 +1,2 @@
-apacherocketmq/rocketmq-dashboard
+nginx
 

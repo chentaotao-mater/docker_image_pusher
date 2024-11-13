@@ -1,2 +1,4 @@
-us.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1
-k8s.gcr.io/defaultbackend-amd64:1.5
+dyrnq/kube-webhook-certgen:v20231011-8b53cabe0
+dyrnq/ingress-nginx-controller:v1.8.4
+
+

@@ -1,4 +1,2 @@
-dyrnq/kube-webhook-certgen:v20231011-8b53cabe0
-dyrnq/ingress-nginx-controller:v1.8.4
-
+docker.io/kubesphere/kubectl:v1.27.4
 

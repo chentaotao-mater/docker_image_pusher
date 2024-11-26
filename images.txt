@@ -1,2 +1,2 @@
-docker.io/kubesphere/kubectl:v1.27.4
+sonatype/nexus3:3.38.0
 

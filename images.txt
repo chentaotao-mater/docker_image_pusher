@@ -1,2 +1,2 @@
-rancher/rancher-agent:v2.7.6
+docker.io/calico/node:v3.25.2
 

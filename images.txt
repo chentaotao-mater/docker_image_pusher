@@ -1,4 +1,4 @@
-registry.k8s.io/ingress-nginx/controller:v1.11.4@sha256:981a97d78bee3109c0b149946c07989f8f1478a9265031d2d23dea839ba05b52
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0@sha256:aaafd456bda110628b2d4ca6296f38731a3aaf0bf7581efae824a41c770a8fc4
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0@sha256:aaafd456bda110628b2d4ca6296f38731a3aaf0bf7581efae824a41c770a8fc4
+registry.k8s.io/ingress-nginx/controller:v1.11.4
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
 

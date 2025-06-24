@@ -1,1 +1,4 @@
 quay.io/metallb/speaker:v0.13.7 
+frrouting/frr:v7.5.1
+frrouting/frr:v7.5.1
+quay.io/metallb/speaker:v0.13.7

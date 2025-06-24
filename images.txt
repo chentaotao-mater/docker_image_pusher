@@ -1,2 +1,2 @@
-ghcr.io/fluxcd/flagger:1.41.0
-ghcr.io/stefanprodan/podinfo:6.0.2
+docker.io/istio/proxyv2:1.18.6
+docker.io/istio/pilot:1.18.6 

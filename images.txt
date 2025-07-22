@@ -1,2 +1,2 @@
-jimmidyson/configmap-reload:v0.8.0
-prom/prometheus:v2.41.0
+rancher/rancher-agent:v2.9-d5d96f88c7d5d9b332e25bba3cdca44993097bae-head
+rancher/rancher-webhook:v0.5.11-rc.1

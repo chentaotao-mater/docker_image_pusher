@@ -1,1 +1,2 @@
-mcr.microsoft.com/playwright/java:v1.41.0-jammy
+stilleshan/goproxy
+

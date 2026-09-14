@@ -1,2 +1,2 @@
-stilleshan/goproxy
-
+node:22-bookworm-slim
+python:3.11-slim

@@ -1,2 +1,1 @@
-node:22-bookworm-slim
-python:3.11-slim
+nvidia/cuda:12.8.0-devel-ubuntu22.04

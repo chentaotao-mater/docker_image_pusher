@@ -1,2 +1,1 @@
-apache/rocketmq:4.9.4
-apacherocketmq/rocketmq-dashboard
+nvcr.io/nvidia/k8s-device-plugin:v0.14.5-ubuntu20.04
